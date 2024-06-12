@@ -1,0 +1,12 @@
+a = int('1')
+b= int('2')
+c= int('3')
+d= int('4')
+e= int('5')
+f= int('6')
+g= int('7')
+h= int('8')
+j= int('9')
+k= int('10')
+for i in range(1,11):
+      print(a,b,c,d,e,f,g,h,j,k,'x',i,'=',a,b,c,d,e,f,g,h,j,k*i,)

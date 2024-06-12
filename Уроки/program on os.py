@@ -1,0 +1,34 @@
+import os, shutil
+
+KEY_FOR_SEARH = input('Что ищем?\n')
+PATH_FOR_COPY = input('Куда копировать файлы\n')
+def search():
+    for adress, dirs, files in os.walk(input(('Введите путь старта\n'))):
+        for file in files:
+            if file.endswith('.txt') and '$' not in file:
+                yield os.path.join(adress, file) #yield делает из функции генератор, метод join() объеденяет пути
+
+def read_from_pathtxt(path):
+    with open(path) as r:
+        for i in r:
+            if KEY_FOR_SEARH in i:
+                return copy(path)
+
+def copy(path):
+    file_name = path.split('\\')[-1]
+    count = 1
+    while True
+    if os.path.isfile(os.path.join(PATH_FOR_COPY,file_name)):
+    shutil.copyfile(path, os.path.join(PATH_FOR_COPY,file_name))
+    print('Файл скопирован', file_name)
+
+for i in search():
+    try:
+        read_from_pathtxt(i)
+    except Exception as e:
+        with open(os.path.join(PATH_FOR_COPY,'errors.txt'), 'a') as r:
+            r.write(str(e) + '\n' + i + '\n')
+
+
+
+
