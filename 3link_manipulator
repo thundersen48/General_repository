@@ -88,14 +88,16 @@ def plot_manipulator(points, base_x = 0, base_y = 0):
     plt.figure(figsize=(8, 8))
     plt.plot(x_coords, y_coords, 'o-', linewidth= 7, markersize= 10, color='darkorange')
 
-    # Начало координат в глобальной ск
+
+
     plt.plot(0, 0, 'ro', markersize=8, label='Глобальная ск (0,0)')
-    #Смещенное основание манипулятора
+
     plt.plot(base_x, base_y, 'go', markersize=8, label='Base')
+
 
     plt.grid(True)
     plt.axis('equal')
-    plt.title('Манипулятор')
+    plt.title('Kuka')
     plt.xlabel('X')
     plt.ylabel('Y')
     plt.legend()
@@ -121,7 +123,7 @@ theta3 = -85
 """ Параметры базы """
 base_x = 0
 base_y = 0
-base_angle = 0  #в градусах
+base_angle = 15  #в градусах
 
 points = forward_kinematics(l1, l2, l3,theta1, theta2, theta3, base_x = base_x, base_y = base_y, base_angle = base_angle)
 
