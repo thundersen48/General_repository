@@ -1,6 +1,7 @@
-
+" Перезагрузка методов "
 
 class Person:
+    name = 'Maks'
     age = 0
     def hello (self):
         print('Hello')
