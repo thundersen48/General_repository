@@ -1,7 +1,0 @@
-f = open('../file.txt', encoding='utf-8')
-text = f.read(1)
-text2 = f.read(8)
-print(f.encoding)
-f.close()
-print(text)
-print(text2)

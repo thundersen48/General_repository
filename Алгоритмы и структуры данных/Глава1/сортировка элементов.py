@@ -1,7 +1,0 @@
-
-A = [[1,2,3],[4,5,6]]
-
-#print(A[0][1])
-
-for i in range(len(A)):
-    f
