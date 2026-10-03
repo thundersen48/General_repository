@@ -1,5 +1,4 @@
 import random
-
 import numpy as np
 
 #заданные значения
@@ -9,9 +8,7 @@ a = 10
 #Список для хранения значений
 data = []
 
-
 #Расчет
-
 for _ in range(10):
     t = np.random.randint(0,10)
     p = p0 + v0 * t + a * t ** 2 / 2

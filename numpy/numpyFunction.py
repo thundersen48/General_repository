@@ -1,4 +1,5 @@
 import numpy as np
+
 b  = np.fromfunction(lambda i, j: i == j, (2, 3), dtype=int)
 print(b)
 
