@@ -1,0 +1,10 @@
+# Проверенное окружение: Python 3.12
+pandas==2.3.3
+numpy==2.3.5
+matplotlib==3.10.0
+fg-data-profiling==4.19.1
+# Для pkg_resources, который использует эта версия профайлера.
+setuptools==80.9.0
+nbformat==5.11.1
+nbclient==0.11.0
+ipykernel==7.3.0
