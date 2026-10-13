@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2fd12a13-3110-4bf8-9dca-8ea00ada68d0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/matplotlib/mat_0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Примеры/Batches.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Примеры/Pagination.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Учеба РУТ МИИТ/Dependence of the inductance on the air gap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Учеба РУТ МИИТ/Practice_3_Zaitseva.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Учеба РУТ МИИТ/The trajectory of the car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Учеба РУТ МИИТ/ЦАП.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/activate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/activate.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/activate.fish" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/activate.nu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/activate.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/activate_this.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/deactivate.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/deactivate.nu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/f2py.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/fonttools.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/gtts-cli.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/mat.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/normalizer.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/pip-3.9.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/pip.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/pip3.9.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/pip3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/pydoc.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/pyftmerge.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/pyftsubset.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/python.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/pythonw.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/tabulate.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/ttx.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/wheel-3.9.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/wheel.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/wheel3.9.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/wheel3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplotlib/mat6 (линейный масштаб).py" beforeDir="false" afterPath="$PROJECT_DIR$/matplotlib/mat6 (линейный масштаб).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/numpyFunction.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy/numpyFunction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Учеба РУТ МИИТ/лабараторная работа 3/Задание 1 (л.б №3).py" beforeDir="false" afterPath="$PROJECT_DIR$/Учеба РУТ МИИТ/лабараторная работа 3/Задание 1 (л.б №3).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Учеба РУТ МИИТ/лабараторная работа 3/Задание 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Учеба РУТ МИИТ/лабараторная работа 3/Задание 3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Учеба РУТ МИИТ/лабараторная работа 3/Задание 4.1" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="thundersen48/main" />
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="thundersen48/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="37c5r3zovZBzkUzXCGDu7NbhuF5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;M:/Projects/pythonM&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="M:\Projects\pythonM\Учеба РУТ МИИТ\Classifier" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Sheet">
+    <configuration name="Batches" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Примеры" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Примеры/Batches.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Graph1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Учеба РУТ МИИТ" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="M:\Projects\pythonM\Учеба РУТ МИИТ\Classifier\Graph1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Pagination" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Примеры" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Примеры/Pagination.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sheet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Примеры" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Примеры/Sheet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="The trajectory of the car" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Учеба РУТ МИИТ" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Учеба РУТ МИИТ/The trajectory of the car.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Sheet" />
+        <item itemvalue="Python.Batches" />
+        <item itemvalue="Python.Pagination" />
+        <item itemvalue="Python.Graph1" />
+        <item itemvalue="Python.The trajectory of the car" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fd12a13-3110-4bf8-9dca-8ea00ada68d0" name="Changes" comment="" />
+      <created>1767189713507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1767189713507</updated>
+      <workItem from="1767189714526" duration="4650000" />
+      <workItem from="1767195124930" duration="169000" />
+      <workItem from="1767195302970" duration="1136000" />
+      <workItem from="1767196812128" duration="1954000" />
+      <workItem from="1767279256459" duration="3130000" />
+      <workItem from="1767447612000" duration="4731000" />
+      <workItem from="1767703956296" duration="3219000" />
+      <workItem from="1767799608055" duration="3708000" />
+      <workItem from="1767885229046" duration="1954000" />
+      <workItem from="1767972336091" duration="2328000" />
+      <workItem from="1768662303800" duration="971000" />
+      <workItem from="1768740550022" duration="1952000" />
+      <workItem from="1768818074799" duration="2056000" />
+      <workItem from="1769336027780" duration="2897000" />
+      <workItem from="1769425193037" duration="2406000" />
+      <workItem from="1769432652892" duration="7940000" />
+      <workItem from="1769506006317" duration="4858000" />
+      <workItem from="1769594915033" duration="11622000" />
+      <workItem from="1769689024472" duration="8150000" />
+      <workItem from="1769776158799" duration="6969000" />
+      <workItem from="1770027405513" duration="8550000" />
+      <workItem from="1770109655880" duration="14126000" />
+      <workItem from="1770204811687" duration="8007000" />
+      <workItem from="1770293839847" duration="789000" />
+      <workItem from="1770295259288" duration="1637000" />
+      <workItem from="1770373110497" duration="10737000" />
+      <workItem from="1770474401072" duration="3474000" />
+      <workItem from="1771679694278" duration="5463000" />
+      <workItem from="1771766806088" duration="5860000" />
+      <workItem from="1771844311500" duration="9495000" />
+      <workItem from="1774888500233" duration="3244000" />
+      <workItem from="1775051442345" duration="1084000" />
+      <workItem from="1775205407346" duration="52000" />
+      <workItem from="1777829995485" duration="798000" />
+      <workItem from="1777831933018" duration="37000" />
+      <workItem from="1779374974437" duration="266000" />
+      <workItem from="1779376937821" duration="79000" />
+      <workItem from="1779377104280" duration="248000" />
+      <workItem from="1779541226864" duration="2037000" />
+      <workItem from="1780657475116" duration="1391000" />
+      <workItem from="1782746496843" duration="389000" />
+      <workItem from="1782823928770" duration="9359000" />
+      <workItem from="1783335194150" duration="10197000" />
+      <workItem from="1785345562724" duration="132000" />
+      <workItem from="1789237740675" duration="687000" />
+      <workItem from="1790159345226" duration="1783000" />
+    </task>
+    <task id="LOCAL-00001" summary="#Первый коммит">
+      <option name="closed" value="true" />
+      <created>1767191444750</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1767191444750</updated>
+    </task>
+    <task id="LOCAL-00002" summary="#Первый коммит">
+      <option name="closed" value="true" />
+      <created>1767192017611</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1767192017611</updated>
+    </task>
+    <task id="LOCAL-00003" summary="#Первый коммит">
+      <option name="closed" value="true" />
+      <created>1767192138866</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1767192138866</updated>
+    </task>
+    <task id="LOCAL-00004" summary="#Первый коммит">
+      <option name="closed" value="true" />
+      <created>1767192239697</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1767192239697</updated>
+    </task>
+    <task id="LOCAL-00005" summary="#Первый коммит">
+      <option name="closed" value="true" />
+      <created>1767192585680</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1767192585680</updated>
+    </task>
+    <task id="LOCAL-00006" summary="#Первый коммит">
+      <option name="closed" value="true" />
+      <created>1767193425607</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1767193425607</updated>
+    </task>
+    <task id="LOCAL-00007" summary="#Первый коммит">
+      <option name="closed" value="true" />
+      <created>1767193683811</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1767193683811</updated>
+    </task>
+    <task id="LOCAL-00008" summary="#Первый коммит">
+      <option name="closed" value="true" />
+      <created>1767195053198</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1767195053198</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Initial project version&#10;&#10;# Conflicts:&#10;#&#9;.idea/dbnavigator.xml&#10;#&#9;.idea/inspectionProfiles/profiles_settings.xml&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/pythonM.iml&#10;#&#9;.idea/vcs.xml&#10;#&#9;desktop.ini&#10;#&#9;file.txt&#10;#&#9;matplotlib/mat1.py&#10;#&#9;matplotlib/mat3.py&#10;#&#9;Объектно-орнтированное програмиирование/#11 Область видимости классов.py&#10;#&#9;Объектно-орнтированное програмиирование/#14 Наследование перезагрузка методов и расширение функциональности.py&#10;#&#9;Объектно-орнтированное програмиирование/#15 Полиморфизм перезагрузка операторов.py&#10;#&#9;Объектно-орнтированное програмиирование/#17 Операция super() и дегелирование объектами.py&#10;#&#9;Проекты/3d Танк/Software_3D_engine .py">
+      <option name="closed" value="true" />
+      <created>1767195207180</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1767195207180</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Initial project version&#10;&#10;# Conflicts:&#10;#&#9;.idea/dbnavigator.xml&#10;#&#9;.idea/inspectionProfiles/profiles_settings.xml&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/pythonM.iml&#10;#&#9;.idea/vcs.xml&#10;#&#9;desktop.ini&#10;#&#9;file.txt&#10;#&#9;matplotlib/mat1.py&#10;#&#9;matplotlib/mat3.py&#10;#&#9;Объектно-орнтированное програмиирование/#11 Область видимости классов.py&#10;#&#9;Объектно-орнтированное програмиирование/#14 Наследование перезагрузка методов и расширение функциональности.py&#10;#&#9;Объектно-орнтированное програмиирование/#15 Полиморфизм перезагрузка операторов.py&#10;#&#9;Объектно-орнтированное програмиирование/#17 Операция super() и дегелирование объектами.py&#10;#&#9;Проекты/3d Танк/Software_3D_engine .py">
+      <option name="closed" value="true" />
+      <created>1767198962148</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1767198962148</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Initial project version&#10;&#10;# Conflicts:&#10;#&#9;.idea/dbnavigator.xml&#10;#&#9;.idea/inspectionProfiles/profiles_settings.xml&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/pythonM.iml&#10;#&#9;.idea/vcs.xml&#10;#&#9;desktop.ini&#10;#&#9;file.txt&#10;#&#9;matplotlib/mat1.py&#10;#&#9;matplotlib/mat3.py&#10;#&#9;Объектно-орнтированное програмиирование/#11 Область видимости классов.py&#10;#&#9;Объектно-орнтированное програмиирование/#14 Наследование перезагрузка методов и расширение функциональности.py&#10;#&#9;Объектно-орнтированное програмиирование/#15 Полиморфизм перезагрузка операторов.py&#10;#&#9;Объектно-орнтированное програмиирование/#17 Операция super() и дегелирование объектами.py&#10;#&#9;Проекты/3d Танк/Software_3D_engine .py">
+      <option name="closed" value="true" />
+      <created>1769781151945</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1769781151945</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/python-algorithms" />
+      <path value="$PROJECT_DIR$/tree_repo" />
+      <path value="$PROJECT_DIR$/Сайты/Project one/app" />
+      <path value="$PROJECT_DIR$/Сайты/Project one/app2" />
+    </ignored-roots>
+    <MESSAGE value="#Первый коммит" />
+    <MESSAGE value="Initial project version&#10;&#10;# Conflicts:&#10;#&#9;.idea/dbnavigator.xml&#10;#&#9;.idea/inspectionProfiles/profiles_settings.xml&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/pythonM.iml&#10;#&#9;.idea/vcs.xml&#10;#&#9;desktop.ini&#10;#&#9;file.txt&#10;#&#9;matplotlib/mat1.py&#10;#&#9;matplotlib/mat3.py&#10;#&#9;Объектно-орнтированное програмиирование/#11 Область видимости классов.py&#10;#&#9;Объектно-орнтированное програмиирование/#14 Наследование перезагрузка методов и расширение функциональности.py&#10;#&#9;Объектно-орнтированное програмиирование/#15 Полиморфизм перезагрузка операторов.py&#10;#&#9;Объектно-орнтированное програмиирование/#17 Операция super() и дегелирование объектами.py&#10;#&#9;Проекты/3d Танк/Software_3D_engine .py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial project version&#10;&#10;# Conflicts:&#10;#&#9;.idea/dbnavigator.xml&#10;#&#9;.idea/inspectionProfiles/profiles_settings.xml&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/pythonM.iml&#10;#&#9;.idea/vcs.xml&#10;#&#9;desktop.ini&#10;#&#9;file.txt&#10;#&#9;matplotlib/mat1.py&#10;#&#9;matplotlib/mat3.py&#10;#&#9;Объектно-орнтированное програмиирование/#11 Область видимости классов.py&#10;#&#9;Объектно-орнтированное програмиирование/#14 Наследование перезагрузка методов и расширение функциональности.py&#10;#&#9;Объектно-орнтированное програмиирование/#15 Полиморфизм перезагрузка операторов.py&#10;#&#9;Объектно-орнтированное програмиирование/#17 Операция super() и дегелирование объектами.py&#10;#&#9;Проекты/3d Танк/Software_3D_engine .py" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonM$_1.coverage" NAME="#1 Coverage Results" MODIFIED="1767189993890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Математика/Дифференциальные уравнения" />
+    <SUITE FILE_PATH="coverage/pythonM$Practice_3_Zaitseva.coverage" NAME="Practice_3_Zaitseva Coverage Results" MODIFIED="1775053777401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Учеба РУТ МИИТ" />
+    <SUITE FILE_PATH="coverage/pythonM$Batches.coverage" NAME="Batches Coverage Results" MODIFIED="1783353837381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Примеры" />
+    <SUITE FILE_PATH="coverage/pythonM$mat6_3d__.coverage" NAME="mat6(3d график) Coverage Results" MODIFIED="1770296187988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib" />
+    <SUITE FILE_PATH="coverage/pythonM$Dependence_of_the_inductance_on_the_air_gap.coverage" NAME="Dependence of the inductance on the air gap Coverage Results" MODIFIED="1779548392403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Учеба РУТ МИИТ" />
+    <SUITE FILE_PATH="coverage/pythonM$Task_3_manipulator.coverage" NAME="Task_3_manipulator Coverage Results" MODIFIED="1767190008159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/РУТ МИИТ" />
+    <SUITE FILE_PATH="coverage/pythonM$Script1.coverage" NAME="Script1 Coverage Results" MODIFIED="1767800709278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sandbox" />
+    <SUITE FILE_PATH="coverage/pythonM$cool_drawingTurleStar.coverage" NAME="cool drawingTurleStar Coverage Results" MODIFIED="1767189976556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Примеры" />
+    <SUITE FILE_PATH="coverage/pythonM$mat12__.coverage" NAME="mat12 Трёхмерные графики Coverage Results" MODIFIED="1770295726825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib" />
+    <SUITE FILE_PATH="coverage/pythonM$mat6____.coverage" NAME="mat6 (линейный масштаб) Coverage Results" MODIFIED="1770296180033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib" />
+    <SUITE FILE_PATH="coverage/pythonM$_3.coverage" NAME="Задание 3 Coverage Results" MODIFIED="1770296207473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Учеба РУТ МИИТ/лабараторная работа 3" />
+    <SUITE FILE_PATH="coverage/pythonM$lesson_25.coverage" NAME="lesson 25 Coverage Results" MODIFIED="1767456577060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sandbox" />
+    <SUITE FILE_PATH="coverage/pythonM$_.coverage" NAME="Робот манипулятор Coverage Results" MODIFIED="1770220314750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Учеба РУТ МИИТ" />
+    <SUITE FILE_PATH="coverage/pythonM$mat_0.coverage" NAME="mat_0 Coverage Results" MODIFIED="1770295858432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib" />
+    <SUITE FILE_PATH="coverage/pythonM$_1____3_.coverage" NAME="Задание 1 (л.б №3) Coverage Results" MODIFIED="1770220292864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Учеба РУТ МИИТ/лабараторная работа 3" />
+    <SUITE FILE_PATH="coverage/pythonM$.coverage" NAME="ЦАП Coverage Results" MODIFIED="1777830745461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Учеба РУТ МИИТ" />
+    <SUITE FILE_PATH="coverage/pythonM$The_trajectory_of_the_car.coverage" NAME="The trajectory of the car Coverage Results" MODIFIED="1779548482590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Учеба РУТ МИИТ" />
+    <SUITE FILE_PATH="coverage/pythonM$mat13____.coverage" NAME="mat13 (Линии уровня) Coverage Results" MODIFIED="1770296194223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib" />
+    <SUITE FILE_PATH="coverage/pythonM$mat.coverage" NAME="matзакреп Coverage Results" MODIFIED="1770295941754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib" />
+    <SUITE FILE_PATH="coverage/pythonM$Sheet.coverage" NAME="Sheet Coverage Results" MODIFIED="1790159489187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Примеры" />
+    <SUITE FILE_PATH="coverage/pythonM$mat7_____.coverage" NAME="mat7 (Типовое офрмление графиков) Coverage Results" MODIFIED="1770296260936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib" />
+    <SUITE FILE_PATH="coverage/pythonM$Graph1.coverage" NAME="Graph1 Coverage Results" MODIFIED="1780658430826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Учеба РУТ МИИТ" />
+    <SUITE FILE_PATH="coverage/pythonM$Pagination.coverage" NAME="Pagination Coverage Results" MODIFIED="1783353330478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Примеры" />
+  </component>
+</project>

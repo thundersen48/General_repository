@@ -1,0 +1,13 @@
+Index: .idea/other.xml
+===================================================================
+diff --git a/.idea/other.xml b/.idea/other.xml
+--- a/.idea/other.xml	
++++ b/.idea/other.xml	
+@@ -3,6 +3,5 @@
+   <component name="PySciProjectComponent">
+     <option name="PY_SCI_VIEW" value="true" />
+     <option name="PY_SCI_VIEW_SUGGESTED" value="true" />
+-    <option name="PY_INTERACTIVE_PLOTS_SUGGESTED" value="true" />
+   </component>
+ </project>
+\ No newline at end of file
