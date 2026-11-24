@@ -1,0 +1,51 @@
+{
+  "dataset": "Fashion-MNIST",
+  "source": "https://github.com/zalandoresearch/fashion-mnist",
+  "license": "MIT",
+  "source_commit": "b2617bb6d3ffa2e429640350f613e3291e10b141",
+  "retrieved_at_utc": "2026-11-04T16:19:18.946011+00:00",
+  "upstream_files": [
+    {
+      "name": "train-images-idx3-ubyte.gz",
+      "url": "https://raw.githubusercontent.com/zalandoresearch/fashion-mnist/b2617bb6d3ffa2e429640350f613e3291e10b141/data/fashion/train-images-idx3-ubyte.gz",
+      "bytes": 26421880,
+      "sha256": "3aede38d61863908ad78613f6a32ed271626dd12800ba2636569512369268a84"
+    },
+    {
+      "name": "train-labels-idx1-ubyte.gz",
+      "url": "https://raw.githubusercontent.com/zalandoresearch/fashion-mnist/b2617bb6d3ffa2e429640350f613e3291e10b141/data/fashion/train-labels-idx1-ubyte.gz",
+      "bytes": 29515,
+      "sha256": "a04f17134ac03560a47e3764e11b92fc97de4d1bfaf8ba1a3aa29af54cc90845"
+    },
+    {
+      "name": "t10k-images-idx3-ubyte.gz",
+      "url": "https://raw.githubusercontent.com/zalandoresearch/fashion-mnist/b2617bb6d3ffa2e429640350f613e3291e10b141/data/fashion/t10k-images-idx3-ubyte.gz",
+      "bytes": 4422102,
+      "sha256": "346e55b948d973a97e58d2351dde16a484bd415d4595297633bb08f03db6a073"
+    },
+    {
+      "name": "t10k-labels-idx1-ubyte.gz",
+      "url": "https://raw.githubusercontent.com/zalandoresearch/fashion-mnist/b2617bb6d3ffa2e429640350f613e3291e10b141/data/fashion/t10k-labels-idx1-ubyte.gz",
+      "bytes": 5148,
+      "sha256": "67da17c76eaffca5446c3361aaab5c3cd6d1c2608764d35dfb1850b086bf8dd5"
+    }
+  ],
+  "sample_seed": 42,
+  "selection": "1200 examples per class, without replacement, from the original training split; full official test retained",
+  "pool_rows": 12000,
+  "test_rows": 10000,
+  "npz_file": "fashion_mnist_subset.npz",
+  "sha256": "6a5f84378c8354c5e01e1420cdfb1a16f4b410aa3a55f648dab6d681fd6578b2",
+  "class_names_ru": [
+    "Футболка / топ",
+    "Брюки",
+    "Пуловер",
+    "Платье",
+    "Пальто",
+    "Сандалии",
+    "Рубашка",
+    "Кроссовки",
+    "Сумка",
+    "Ботильоны"
+  ]
+}
